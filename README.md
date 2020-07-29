@@ -5,7 +5,7 @@
  1. Learning C++ ( learncpp.com as well as programiz.com but I feel learncpp goes through the nuances and important topics ) <br> 
  2. Browsing Chromium Source ( i am still astounded at it's build times ) 
  <br>
- 3. Learning to Build Netflix as an Android App ( google has an amazing codelabs tutorial series as well as general documentation on topics I'm finding difficult ) 
+ 3. Re-Building Netflix as an Android App ( google has an amazing codelabs tutorial series as well as general documentation on topics I'm finding difficult ) 
  
  <br>
  4. Playing around with Fonts in Adobe XD ( Tinkering with designs seems to be another hobby I'll have to deal with ^_____^ ) 
