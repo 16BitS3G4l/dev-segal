@@ -10,9 +10,14 @@
   - Google Documentation => Although it's not a personal project or anything, I think there's certainly something to be said of discipline in learning, and the drive to learn continuously, not just when required of you. The obsession to learn, from where I stand, or sit, seems like one of the ultimate drivers of successful mastery; and I focus on that drive and discipline every day, to excel in whatever I aim to do. 
   
  <br>
-2. Stuck on feast for crows, doesn't seem to end, and yet I need to reach it, otherwise I can't read book #5...
+2. <strike>Stuck on feast for crows doesn't seem to end, and yet I need to reach it, otherwise I can't read book #5...
 
 - Cersei isn't very happy, is she? 
+</strike>
+
+2. On Dance of dragons, and I'm already looking at Winds of Winter news... 
+
+- Tyrion seems like an evil teletubby, if that's possible :) 
  <br>
 3. Spending time on e-ink technology.
 - I have a DPT-CP1 (Sony Digital Paper e-ink reader) and I paid an extreme price for it; I don't regret it one moment. E-ink really stunned me as something that's so capable of providing an experience of joy and happiness through reading. Although there's lag between page turns, it doesn't take too much off of the experience in my books. I also love that it is large enough to support textbooks, where traditional e-readers, about 6 inches perhaps, would require superhuman sight to use textbooks on them. 
