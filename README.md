@@ -15,9 +15,8 @@
 - Cersei isn't very happy, is she? 
 </strike>
 
-2. On Dance of dragons, and I'm already looking at Winds of Winter news... 
+2.Finished Dance of Dragons, I'm parsing the Internet for Winds of Winter... 
 
-- Tyrion seems like an evil teletubby, if that's possible :) 
  <br>
 3. Spending time on e-ink technology.
 - I have a DPT-CP1 (Sony Digital Paper e-ink reader) and I paid an extreme price for it; I don't regret it one moment. E-ink really stunned me as something that's so capable of providing an experience of joy and happiness through reading. Although there's lag between page turns, it doesn't take too much off of the experience in my books. I also love that it is large enough to support textbooks, where traditional e-readers, about 6 inches perhaps, would require superhuman sight to use textbooks on them. 
