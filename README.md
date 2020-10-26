@@ -15,7 +15,7 @@
 - Cersei isn't very happy, is she? 
 </strike>
 
-2.Finished Dance of Dragons, I'm parsing the Internet for Winds of Winter... 
+2.Finished Dance of Dragons, waiting on Winds of Winter... 
 
  <br>
 3. Spending time on e-ink technology.
